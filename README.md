@@ -31,7 +31,7 @@ When the button to filter data is clicked, the filterTable() function is run and
 
 ![Code Sample](https://github.com/Alyssa-CG/Module11-UFOs/blob/master/static/images/code%20sample2.png)
 
-This way, although the text of my forEach loop remains the same, what it is doing has updated as now the loop passes through every condition where it only passed through one before. The full code is available [here](https://github.com/Alyssa-CG/Module11-UFOs/blob/master/static/js/app.js)
+This way, although the text of my forEach loop remains the same, what it is doing has updated as now the loop passes through every condition where it only passed through one before. The full code is available [here](https://github.com/Alyssa-CG/Module11-UFOs/blob/master/static/js/app.js).
 
 Many bootstrap elements were utilised throughout this module to [format the page](https://github.com/Alyssa-CG/Module11-UFOs/blob/master/index.html), including Navigation Bars, Input spaces, Jumbotron, etc.
 
